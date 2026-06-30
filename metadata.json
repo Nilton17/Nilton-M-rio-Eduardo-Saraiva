@@ -1,0 +1,6 @@
+{
+  "name": "Maelina Gift",
+  "description": "Sistema moderno de gestão empresarial para uma loja de presentes, flores e buquês",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
